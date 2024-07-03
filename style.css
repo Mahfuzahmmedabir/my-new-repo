@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.main{
+  background-color: tomato;
+  height: 300px;
+}
+.main h2{
+  font-size: 40px;
+  text-align: center;
+  background-color: chartreuse;
+}
+.main p{
+  /* width: 300px; */
+  width: 600px;
+  text-align: center;
+  margin-left: 500px;
+  font-size: 20px;
+}
+.main ol, li{
+  text-align: center;
+  padding: 5px;
+  background-color: aqua;
+}
